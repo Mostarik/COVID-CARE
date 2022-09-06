@@ -91,3 +91,8 @@ footer p {
 .footer {
     background-color: orange;
 }
+
+.email-gmail {
+    color: blue;
+    font-style: italic;
+}
